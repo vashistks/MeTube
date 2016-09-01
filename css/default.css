@@ -1,0 +1,81 @@
+/* You can implement your own css code*/
+
+#passwd_result{
+	background:#FF9900;
+	color:#FFFFFF;
+	font-weight:bold;
+	margin-right:60%;
+}
+
+#upload_result{
+	background:#CC3300;
+	color:#FFFFFF;
+	font-weight:bold;
+}
+
+
+.nav {
+    line-height: 50px;
+    position: fixed;
+    background-color: #333;
+    width:81%;
+}
+
+.nav a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    	background-color: #E0D8E0;
+    	color: black;
+	text-align: center;
+    	padding: 12px 4px;
+    	text-decoration: none;
+
+}
+
+.inactive {
+	
+	display: inline;
+    	color: white;
+    	text-align: center;
+    	padding: 14px 4px;
+    	text-decoration: none;
+    
+}
+.button {	
+	padding: 8px 20px;
+    background: #21DEEF;
+    color: #FFF;
+    font-size: 14px;
+    text-decoration: none;
+    border-radius: 3px;
+
+}
+
+
+
+
+h1{
+color: #1AC6ff;
+}
+
+h2{
+color: #1AC6ff;
+}
+
+h3{
+color: #1AC6ff;
+}
+
+h4{
+color: #1AC6ff;
+}
+
+h5{
+color: #1AC6ff;
+}
+
+h6{
+color: #1AC6ff;
+}
